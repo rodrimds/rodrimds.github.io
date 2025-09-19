@@ -19,6 +19,7 @@ i{
     margin: 0.5rem;
     color: white;
 }
+
 nav{
     margin-top: 2rem;
     display: flex;
@@ -32,13 +33,32 @@ nav a{
 section{
     width: 100%;
 }
+h2{
+    justify-self: start;
+}
+ul{
+    list-style: none;
+}
 #about, #portafolio, #contact{
     padding: 2rem;
 }
-
+#portafolio{
+    background-color: #F9FAFB;
+}
 #bg-image{
     height: 40vh;
     width: 100vh;
+}
+#contact i{
+    color: #1E1E2E;
+}
+.project{
+    background-color: white;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+    margin:2rem
 }
 .profile-image{
     width: 150px;
@@ -49,9 +69,25 @@ section{
     border: 4px solid white;
 }
 .background-image{
-    background-image: url('src/img/imagen-fondo.jpg');
+    background:url('img/imagen-fondo.jpg') no-repeat center center;
     background-size: cover;
-    background-position: center;
+    text-align: start;
+    justify-items:self-start;
     width: 100%;
     height: 45vh;
+}
+.background-image h1{
+    color: white;
+    font-size: 3rem;
+    padding: 2rem;
+    display: inline-block;
+    justify-self:flex-start;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+.background-image p{
+    color: white;
+    font-size: 1.5rem;
+    padding: 2rem;
+    margin-top: -4rem;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
