@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Desarrollador Web Junior apasionado por el aprendizaje continuo</h3>
 
 <p align="center">
-  <img src="https://komarev.com/gh-people/[tu-usuario]?label=Perfil%20Vistas&style=flat-square" alt="Vistas del perfil" />
+  <img src="https://komarev.com/gh-people/rodrimds?label=Perfil%20Vistas&style=flat-square" alt="Vistas del perfil" />
   <a href="https://github.com/rodrimds?tab=followers">
     <img src="https://img.shields.io/github/followers/[tu-usuario]?label=Seguidores&style=social" alt="Seguidores">
   </a>
