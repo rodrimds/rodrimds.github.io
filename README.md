@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/gh-people/[tu-usuario]?label=Perfil%20Vistas&style=flat-square" alt="Vistas del perfil" />
-  <a href="https://github.com/[tu-usuario]?tab=followers">
+  <a href="https://github.com/rodrimds?tab=followers">
     <img src="https://img.shields.io/github/followers/[tu-usuario]?label=Seguidores&style=social" alt="Seguidores">
   </a>
 </p>
